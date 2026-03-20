@@ -1,0 +1,1 @@
+{"name": "S-Call","version": "1.0.0","description": "Backend server for S-Call.","main": "index.js","scripts": {"test": "echo 'Error: no test specified' && exit 1"},"author": "Sagor9155S","license": "ISC"}
